@@ -2,6 +2,7 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/src/insert_into.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/sroted_procedure.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/view_table.sql" dialect="MySQL" />
   </component>
 </project>
